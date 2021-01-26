@@ -1,5 +1,5 @@
 # formvalidation.github.io
-Form Validation Made with <strong>HTML, CSS, Vanilla JavaScript (Responsive)</strong>
+Client-Side Form Validation Made with <strong>HTML, CSS, Vanilla JavaScript (Responsive)</strong>
 
 <strong>Checks if the username entered is:</strong><br>
 - Blank<br>
